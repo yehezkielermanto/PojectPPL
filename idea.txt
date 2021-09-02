@@ -1,3 +1,0 @@
-Idea of this project is to make information system by using java programming language.
-stay tune until this project completed.
-this project is made for completing Software Planning lesson in our university
