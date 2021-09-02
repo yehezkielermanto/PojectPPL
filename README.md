@@ -8,4 +8,4 @@
 [![Yehezkiel Ermanto](https://img.shields.io/badge/Yehezkiel%20Ermanto-Github-blue)](https://github.com/yehezkielermanto/)
 [![Hanna Pratiwi](https://img.shields.io/badge/Hanna%20Pratiwi-Github-blue)](https://github.com/hannapratiwi/)
 
-### This is a Desktop Based Software Design Course Project with Java Programming Language 
+### This is a Desktop Application Based Software Design Course Project with Java Programming Language 
