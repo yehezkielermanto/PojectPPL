@@ -5,7 +5,7 @@
 
 
 [![Antonius Bun Wijaya](https://img.shields.io/badge/Antonius%20Bun%20Wijaya-Github-blue)](https://github.com/NoraNekoIT/)
-[![Yehezkiel Ermanto](https://img.shields.io/badge/Yehezkiel%20Hermanto-Github-blue)](https://github.com/yehezkielermanto/)
+[![Yehezkiel Ermanto](https://img.shields.io/badge/Yehezkiel%20Ermanto-Github-blue)](https://github.com/yehezkielermanto/)
 [![Hanna Pratiwi](https://img.shields.io/badge/Hanna%20Pratiwi-Github-blue)](https://github.com/hannapratiwi/)
 
 ### This is a Desktop Based Software Design Course Project with Java Programming Language 
