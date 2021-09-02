@@ -4,8 +4,8 @@
 [![HitCount](https://views.whatilearened.today/views/github/noranekoit/ProjectPPL.svg)](https://github.com/noranekoit/ProjectPPL)
 
 
-[![Antonius Bun Wijaya](https://img.shields.io/badge/Antonius%20Bun%20Wijaya-Github-blue)]
-[![Yehezkiel Hermanto](https://img.shields.io/badge/Yehezkiel%20Hermanto-Github-blue)]
-[![Hanna Pratiwi](https://img.shields.io/badge/Hanna%20Pratiwi-Github-blue)]
+[![Antonius Bun Wijaya](https://img.shields.io/badge/Antonius%20Bun%20Wijaya-Github-blue)](https://github.com/NoraNekoIT/)
+[![Yehezkiel Hermanto](https://img.shields.io/badge/Yehezkiel%20Hermanto-Github-blue)](https://github.com/yehezkielermanto/)
+[![Hanna Pratiwi](https://img.shields.io/badge/Hanna%20Pratiwi-Github-blue)](https://github.com/hannapratiwi/)
 
 ### This is a Desktop Based Software Design Course Project with Java Programming Language 
